@@ -59,8 +59,8 @@ This repository contains my Digital Literacy Portfolio for CSE0001. As part of t
 ## Links
 
 - **GitHub Profile:** https://github.com/swastik-2508
-- **LinkedIn:** https://www.linkedin.com/swastik2508
-- **ResearchGate:** https://www.researchgate.net/profile/Swastik-Barik
+- **LinkedIn:** https://www.linkedin.com/in/swastik2508/
+- **ResearchGate:** https://www.researchgate.net/profile/Swastik-Barik?ev=hdr_xprf
 - **Digital Literacy Quiz (Google Form):** *https://docs.google.com/forms/d/e/1FAIpQLScOYvBYtGlqX_HpoAi0TE_7tXeT6uzt0OmJ_l8cWJnyLzt4MA/viewform*
 
 ---
